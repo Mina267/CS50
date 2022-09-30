@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: high time for random and small time sorted
+
+sort2 uses: merge
+
+How do you know?: same time for random as small time sorted and time small than other
+
+sort3 uses: selection
+
+How do you know?: high time for random and high time sorted
